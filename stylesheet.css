@@ -164,6 +164,7 @@ a.login{
   width: 160px;
   height: 200px;
   border-radius: 5px 20px;
+  margin: 0 auto;
 }
 
 .heading {
